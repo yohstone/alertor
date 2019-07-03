@@ -1,0 +1,12 @@
+
+
+2019-07-03 11:56:27 代理池小于10字节，可能存在问题，请注意检查！
+Sent failed!Trying to smtp.126.com:25
+Connected to relay host smtp.126.com
+Error: Remote host returned "535 Error: authentication failed"
+Error: Error occurred while sending AUTH command.
+Error: Cannot send email to <stone_movies@126.com>
+Disconnected from remote host
+
+2019-07-03 11:57:22 代理池小于10字节，可能存在问题，请注意检查！
+Sent success!
